@@ -1,4 +1,4 @@
-# 🚑 MediFlow Assistant  
+# 🚑 AarogyaFlow Assistant  
 AI-powered Medical Report Analyzer & Q&A Assistant
 
 MediFlow Assistant is a cutting-edge medical intelligence application that uses **Google Gemini**, **Pinecone**, **Hugging Face**, and **Next.js** to help users understand their medical reports.  
