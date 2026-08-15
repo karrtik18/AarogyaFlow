@@ -1,7 +1,7 @@
 # 🚑 AarogyaFlow Assistant  
 AI-powered Medical Report Analyzer & Q&A Assistant
 
-MediFlow Assistant is a cutting-edge medical intelligence application that uses **Google Gemini**, **Pinecone**, **Hugging Face**, and **Next.js** to help users understand their medical reports.  
+Aarogyaflow Assistant is a cutting-edge medical intelligence application that uses **Google Gemini**, **Pinecone**, **Hugging Face**, and **Next.js** to help users understand their medical reports.  
 Upload PDFs or images → extract key medical information → ask questions → get accurate, personalized answers powered by **Retrieval Augmented Generation (RAG)**.
 
 ---
